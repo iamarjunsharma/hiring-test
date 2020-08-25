@@ -18,7 +18,7 @@ So we put together this exercise that usually takes on the order of 60-90 minute
 - Immediately mark an initial commit - this will serve as a starting point
 - On completion, create a commit called "code-complete"
 - Feel free to do refactoring/design improvements after that point in further commits
-- This project will be `git clone`d by me, then `npm install && npm start`.  If it needs more configuration than that, then it's probably not a great sign
+- This project will be `git clone`d by us, then `npm install && npm start`.  If it needs more configuration than that, then it's probably not a great sign
 - The application state should be stored in Redux
 - The components should be tested
 
@@ -32,7 +32,7 @@ So we put together this exercise that usually takes on the order of 60-90 minute
 
 - Push this repository to github
 - Email arjun.sharma@closeloop.com with the location of the repository - if you would like it to be private, then add the github user `iamarjunsharma` as a collaborator
-- I will review the code within 24 hours and we can discuss it in github
+- We will review the code within 24 hours and we can discuss it in github
 
 ### Criteria
 
@@ -41,6 +41,6 @@ So we put together this exercise that usually takes on the order of 60-90 minute
 - Testing methodology/coverage
 - "Does it work"
 - Time to complete
-- Attached is a screenshot of the version of this exercise that I (Justin) built.  This is an intentionally graphically bare version of the project to communicate the main components.
+- Attached is a screenshot of the version of this exercise that we built.  This is an intentionally graphically bare version of the project to communicate the main components.
 
 <img src="Exercise Screenshot.png" alt="screenshot" class="inline"/>
