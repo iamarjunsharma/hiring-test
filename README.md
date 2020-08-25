@@ -1,4 +1,4 @@
-## Welcome to the Till Wellness Hiring Exercise
+## Welcome to the ReactJS Hiring Exercise
 
 Awesome!  Are you excited?  Pumped up?  Ready to go?  Great!
 
@@ -31,7 +31,7 @@ So we put together this exercise that usually takes on the order of 60-90 minute
 ### Submitting
 
 - Push this repository to github
-- Email justin@tillwellness.com with the location of the repository - if you would like it to be private, then add the github user `litch` as a collaborator
+- Email arjun.sharma@closeloop.com with the location of the repository - if you would like it to be private, then add the github user `iamarjunsharma` as a collaborator
 - I will review the code within 24 hours and we can discuss it in github
 
 ### Criteria
