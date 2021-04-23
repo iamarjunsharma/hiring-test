@@ -31,7 +31,7 @@ So we put together this exercise that usually takes on the order of 60-90 minute
 ### Submitting
 
 - Push this repository to github
-- Email arjun.sharma@closeloop.com with the location of the repository - if you would like it to be private, then add the github user `iamarjunsharma` as a collaborator
+- Email arjun.sharma17@gmail.com with the location of the repository - if you would like it to be private, then add the github user `iamarjunsharma` as a collaborator
 - We will review the code within 24 hours and we can discuss it in github
 
 ### Criteria
