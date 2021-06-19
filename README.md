@@ -39,7 +39,7 @@ So we put together this exercise that usually takes on the order of 60-90 minute
 - Clarity
 - Adherence to "standards"
 - Testing methodology/coverage
-- "Does it work"
+- "Does it work"?
 - Time to complete
 - Attached is a screenshot of the version of this exercise that we built.  This is an intentionally graphically bare version of the project to communicate the main components.
 
